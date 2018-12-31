@@ -1,0 +1,21 @@
+{
+    "type": "AKSSqlServerCredentials",
+    "host": "oak4ap0qih.database.windows.net",
+    "db": "DB761",
+    "user": "fuchs",
+    "aks": "FXWEPOCAKS01",
+    "values": [
+        {
+            "secret-name": "db761-sql-test1-adm",
+            "sql-user": "test1_adm",
+            "sql-db": "DB761",
+            "sql-host": "oak4ap0qih.database.windows.net"
+        },
+        {
+            "secret-name": "db761-sql-test2",
+            "sql-user": "test2",
+            "sql-db": "DB761",
+            "sql-host": "oak4ap0qih.database.windows.net"
+        }
+    ]
+}
